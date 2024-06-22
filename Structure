@@ -1,0 +1,8 @@
+tailscale_vpn_manager/
+├── main.py
+├── tailscale_manager.py
+├── winbox_manager.py
+├── README.md
+├── requirements.txt
+└── assets/
+    └── icon.ico  # if you want to add a custom icon
